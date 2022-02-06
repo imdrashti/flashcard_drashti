@@ -1,4 +1,4 @@
-*pomodoro_timer*
+*Pomodoror Timer*
 
 
 **Introduction**
